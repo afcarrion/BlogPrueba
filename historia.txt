@@ -1,12 +1,11 @@
 Esta es la historia de Andres Carrion.
 
-Joven de 31 años
+Joven de 35 años
 con ganas de aprender a programar como los profesionales.
-Actualmente voy en 3re semestre de mi maestria pero 
+Actualmente voy en 3re semestre de mi doctorado pero 
 hay momentos que siento que no avanzo mucho.
 
-Trabajo en el banco de bogota y quiero empezar a dar lo
-mejor de mi.
+Trabajo en Globant y me encanta todo lo que alli hago. 
 
 Aqui vamos con el curso de git y git hub. 
 
